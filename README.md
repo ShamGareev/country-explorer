@@ -13,7 +13,3 @@ A clean, lightweight frontend web application that allows users to explore count
 * **APIs Used:** * [Nager.Date API](https://date.nager.at/)
   * [FlagsAPI](https://flagsapi.com/)
 
-## 📝 What I Learned
-* How to manage **Cross-Origin Resource Sharing (CORS)** issues by pivoting to compliant API endpoints.
-* How to parse complex JSON objects and dynamically manipulate the DOM to inject content.
-* Asynchronous workflow structures using `.then()` and `.catch()` blocks.
