@@ -5,7 +5,6 @@ A clean, lightweight frontend web application that allows users to explore count
 ## 🚀 Features
 * **Live API Integration:** Fetches accurate, up-to-date data from the Nager.Date API.
 * **Dynamic Flag Rendering:** Communicates with FlagsAPI to instantly load country flags based on ISO codes.
-* **Enhanced UX:** Supports both button clicks and pressing the `Enter` key for seamless searching.
 * **Robust Error Handling:** Catch-blocks handle typos and network drops gracefully.
 
 ## 🛠️ Tech Stack
